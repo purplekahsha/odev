@@ -1,0 +1,6 @@
+Başla
+Oku sayi1
+Oku sayi2
+Eğer(if) sayi1>sayi2 Yaz sayi1 Büyüktür
+Değilse(else) Yaz sayi2 Büyüktür
+Bitir
